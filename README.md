@@ -1,45 +1,63 @@
-### Olá, eu sou Juliano Santos 😎
+# 👋 Olá! Eu sou Juliano Santos
 
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-santos-234bab257/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianosantoskeys)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8lCWu7-UE0DtwnAbAKBOog)
+## 💻 Web Developer FullStack
 
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e funcionais, com experiência em diversas tecnologias que abrangem tanto o desenvolvimento front-end quanto o back-end. Gosto de transformar ideias em realidade, seja desenvolvendo interfaces modernas e responsivas ou arquitetando sistemas robustos e escaláveis.
 
+Tenho um foco especial em **desenvolvimento web** e sou fascinado por aprender e me adaptar às tendências e ferramentas do mercado. Além disso, valorizo boas práticas, como **escrita de código limpo**, **testes** e **colaboração em equipe**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DosSantosDev2022&show_icons=true&theme=tokyonight)
+---
 
-## Tecnologias que eu uso no meu dia
+## 🚀 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+Aqui estão as tecnologias que fazem parte da minha stack e que utilizo no meu dia a dia:
 
-## APIs
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Estilização
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
-## Prototipação
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Além das tecnologias principais, também faço uso de diversas bibliotecas e ferramentas para otimizar meu fluxo de trabalho e desenvolvimento:
 
-## Banco de dados
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![ShadCN](https://img.shields.io/badge/ShadCN-8B5CF6?style=for-the-badge&logoColor=white) - Criação de interfaces com base no Tailwind.
+- ![Radix](https://img.shields.io/badge/Radix-000000?style=for-the-badge&logoColor=white) - Componentes acessíveis e de alto desempenho.
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) - Framework de CSS responsivo.
+- ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logoColor=white) - Gerenciamento de formulários em React.
+- ![Zod](https://img.shields.io/badge/Zod-0055D4?style=for-the-badge&logoColor=white) - Validação de schemas em TypeScript.
+- ![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logoColor=white) - Gerenciamento de estado simplificado.
+- E muitas outras ferramentas que auxiliam no desenvolvimento eficiente e moderno.
+  
+---
 
-## Bibliotecas de componentes
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-<br/>
+## 🌟 Sobre mim
 
-Apaixonado por tecnologia,educação e por mudar  a vida de pessoas por meio da programação.
+- 👨‍💻 Atualmente trabalho como **Desenvolvedor FullStack**, criando aplicações modernas e intuitivas.  
+- 📚 Sou entusiasta do aprendizado contínuo e adoro explorar novas tecnologias.  
+- 🚀 Tenho experiência em **Desenvolvimento de componentes reutilizáveis**, **Desenvolvimento de ponta a ponta** e **Integrações de APIs**.  
+- 🎨 Valorizo muito o design e a experiência do usuário, garantindo que os produtos que desenvolvo sejam tanto funcionais quanto visualmente agradáveis.  
+- 🤝 Adoro colaborar em projetos e acredito que o trabalho em equipe é essencial para criar soluções de alto impacto.  
+
+---
+
+## 📫 Contato
+
+Se quiser conversar sobre tecnologia, trocar ideias ou colaborar em algum projeto, sinta-se à vontade para me contatar:
+
+- 📧 Email: [dossantosdevoficial@gmail.com](mailto:dossantosdevoficial@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/dossantosdev](https://linkedin.com/in/dossantosdev)  
+- 🌐 Portfólio: [dossantosdev.com.br](https://dossantosdev.com.br)  
+
+Obrigado por visitar meu perfil! 🚀
